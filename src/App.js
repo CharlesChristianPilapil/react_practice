@@ -8,7 +8,7 @@ import SearchIcon from './search.svg'
 
 // key = 8ad24b3f
 
-const API_URL = 'http://www.omdbapi.com?apikey=8ad24b3f';
+const API_URL = 'https://www.omdbapi.com?apikey=8ad24b3f';
 
 const movie1 = {
     "Title": "The Batman",
